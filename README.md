@@ -1,7 +1,9 @@
 # Play
 
-Public entertainment repository. ZIP archives are attached as assets to GitHub Releases.
+Public entertainment repository. Browse, download, or clone the original directory trees directly:
 
-Download the latest release: https://github.com/Cheriyang/play/releases/latest
+- [`AssaultGear_272/`](AssaultGear_272/)
+- [`PlantsVsZombies/`](PlantsVsZombies/)
 
-The release contains `AssaultGear_272.zip`, `PlantsVsZombies.zip`, and `SHA256SUMS.txt`. Each archive preserves its original folder at the top level.
+The folders are stored as individual files in the repository. A prior v1.0.0 release has separate ZIP copies.
+Login fields in the public copy of `AssaultGear_272/ini.ini` have been cleared; the local original was not changed.

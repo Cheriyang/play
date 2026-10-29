@@ -1,0 +1,22 @@
+// file name is AssaultGear.exe
+// exception reported at 2021/01/25 (08:03:05)
+// running time is [0:0:17.538]
+
+Exception code: C0000005 ACCESS_VIOLATION
+Fault address:  00433AC1 01:00032AC1 D:\Program Files (x86)\AssaultGear 272\AssaultGear.exe
+
+Registers:
+EAX:00000000
+EBX:00635870
+ECX:00000000
+EDX:00199FE4
+ESI:0019A024
+EDI:006358D0
+CS:EIP:0023:00433AC1
+SS:ESP:002B:00199FC4  EBP:00000000
+DS:002B  ES:002B  FS:0053  GS:002B
+Flags:00010246
+
+Call stack:
+Address   Frame
+
